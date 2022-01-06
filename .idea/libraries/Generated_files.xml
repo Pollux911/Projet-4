@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/blocs.min.js" />
+        <item url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+        <item url="file://$PROJECT_DIR$/js/formHandler.min.js" />
+        <item url="file://$PROJECT_DIR$/js/gmaps.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jqBootstrapValidation.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery-2.1.0.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery.touchSwipe.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/blocs.min.js" />
+      <root url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+      <root url="file://$PROJECT_DIR$/js/formHandler.min.js" />
+      <root url="file://$PROJECT_DIR$/js/gmaps.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jqBootstrapValidation.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-2.1.0.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.touchSwipe.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
